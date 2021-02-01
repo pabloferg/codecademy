@@ -7,10 +7,11 @@ html {
 
 /* Header */
 nav {
-    background-color: darkslategrey;
+    background-color: white;
     height: 30px;
     padding-left: 0.7rem ;
-    color: white;
+    color: rgb(24, 24, 24);
+    font-weight:bold;
     text-align: left;
     margin: auto;
     display: flex;
